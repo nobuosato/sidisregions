@@ -36,6 +36,7 @@ index_page = html.Div([
 ])
 
 
+
 ######################################################
 def gen_slider(label,min,max,step,value):
     #return daq.Slider(
