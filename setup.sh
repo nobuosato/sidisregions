@@ -1,9 +1,12 @@
+pip install numpy
+pip install matplotlib
 pip install dash
 pip install dash-renderer
 pip install dash-core-components
 pip install dash-html-components
 pip install plotly
 pip install gunicorn
+pip install dash_daq
 pip freeze > requirements.txt
 
 #heroku create toy # change my-dash-app to a unique name
