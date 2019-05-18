@@ -20,7 +20,7 @@ index = html.Div([
     dcc.Markdown(dedent('''
     # SIDIS regions analysis tool
 
-    **About**: Numerical evaluation of ratios described at arxiv:... 
+    **About**: Numerical evaluation of ratios based on arXiv:1904.12882 
 
     Select available apps below:
 
@@ -130,7 +130,12 @@ index = html.Div([
         - N. Sato   (ODU/JLab)  (nsato@jlab.org)
         - S. Gordon (ODU) 
         - T. Rogers (ODU)
+    ----
+    **Acknowledgements**:
 
+    The creation of this web app was supported by the U.S. Department of
+    Energy, Office of Science, Office of Nuclear Physics, under Award Number
+    DE-SC0018106.
     ''')),
 
 
