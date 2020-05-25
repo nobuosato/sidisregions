@@ -131,6 +131,11 @@ index = html.Div([
         - S. Gordon (ODU) 
         - T. Rogers (ODU)
     ----
+
+    **Citation**:
+
+    M. Boglione, A. Dotson, L. Gamberg, J.O. Gonzalez-Hernandez, S. Gordon, T.C. Rogers, N. Sato, JHEP 10, 122 (2019), arXiv:1904.12882 hep-ph.
+    
     **Acknowledgements**:
 
     The creation of this web app was supported by the U.S. Department of
